@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 79 Contributions in the Year 2023
+> 🏆 80 Contributions in the Year 2023
  > 
 > 📦 84.9 kB Used in GitHub's Storage 
  > 
@@ -15,6 +15,48 @@
  > 
 > 🔑 5 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning      169 commits       ███████████░░░░░░░░░░░░░░   44.59 % 
+🌆 Daytime      187 commits       ████████████░░░░░░░░░░░░░   49.34 % 
+🌃 Evening       20 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌙 Night          3 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday          59 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Tuesday         86 commits       █████░░░░░░░░░░░░░░░░░░░░   22.69 % 
+Wednesday       91 commits       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Thursday        66 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Friday          49 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday        15 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Sunday          13 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
