@@ -42,19 +42,16 @@ Sunday                   130 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           2 hrs 36 mins       ███████████████░░░░░░░░░░   58.92 % 
-PHP                      1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   41.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bursareit_front          4 hrs 14 mins       ████████████████████████░   95.85 % 
-bursareit_penerbit       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       ██████████████░░░░░░░░░░░   57.59 % 
-Windows                  1 hr 52 mins        ███████████░░░░░░░░░░░░░░   42.41 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
