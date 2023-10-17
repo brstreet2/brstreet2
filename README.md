@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,22 @@ Sunday                   130 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 20 mins       ███████████████████████░░   90.91 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+node-api                 4 hrs 33 mins       ████████████████████████░   95.28 % 
+node-epresence           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+bursareit_front          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
