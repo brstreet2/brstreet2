@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,19 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 1 min          █████████████████████░░░░   85.69 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+compro-api               1 hr 11 mins        █████████████████████████   98.61 % 
+nda-app                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+bursareit_front          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
