@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +40,21 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               24 mins             ███████████████░░░░░░░░░░   58.34 % 
+JSON                     10 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Prisma                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Perl                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+express-auth-project     32 mins             ███████████████████░░░░░░   77.20 % 
+bni-auction              9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
