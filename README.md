@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 189.6 kB Used in GitHub's Storage 
+> 📦 190.0 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2024
  > 
@@ -42,16 +42,21 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      30 mins             ████████████░░░░░░░░░░░░░   46.72 % 
+Blade Template           29 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+manager-www              1 hr 4 mins         █████████████████████████   98.92 % 
+consignment-crud         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
