@@ -7,8 +7,6 @@
 
 > 📦 190.2 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -42,17 +40,16 @@ Sunday                   140 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               30 mins             ████████████████████████░   94.92 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-datfan-api               31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
