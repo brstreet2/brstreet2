@@ -5,9 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 190.5 kB Used in GitHub's Storage 
- > 
-> 🏆 14 Contributions in the Year 2025
+> 📦 190.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
