@@ -7,6 +7,8 @@
 
 > 📦 214.3 kB Used in GitHub's Storage 
  > 
+> 🏆 52 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -40,19 +42,16 @@ Sunday                   192 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      40 mins             ███████████████████████░░   92.79 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laracrud                 42 mins             █████████████████████████   98.79 % 
-library-test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
