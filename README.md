@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 214.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 52 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +42,22 @@ Sunday                   192 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    30 mins             ████████████████░░░░░░░░░   63.44 % 
+Bash                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   30 mins             ████████████████░░░░░░░░░   63.94 % 
+VS Code                  17 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+api.businesscoachingplayb38 mins             ████████████████████░░░░░   80.94 % 
+cfigs.curtin.edu.au      9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
