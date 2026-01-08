@@ -42,17 +42,16 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co58 mins             █████████████████████████   98.77 % 
-api.businesscoachingplayb0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
