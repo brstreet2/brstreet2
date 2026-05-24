@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -13,6 +15,54 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌆 Daytime                572 commits         ███████████░░░░░░░░░░░░░░   45.58 % 
+🌃 Evening                368 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Saturday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      20 hrs 56 mins      ████████████████░░░░░░░░░   62.95 % 
+TypeScript               3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Other                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Markdown                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Blade Template           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+
+🔥 Editors: 
+VS Code                  30 hrs 40 mins      ███████████████████████░░   92.20 % 
+Claude Code              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+
+🐱‍💻 Projects: 
+api.propelyourbusiness.co28 hrs 35 mins      █████████████████████░░░░   85.96 % 
+app.propelyourbusiness.co3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+app.businesscoachingplayb32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+api.businesscoachingplayb11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+api.piratejourney.com    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+💻 Operating System: 
+Linux                    33 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
