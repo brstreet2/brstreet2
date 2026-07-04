@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C806%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,25 +42,25 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      13 hrs 50 mins      ████████████░░░░░░░░░░░░░   49.33 % 
-Markdown                 5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-TypeScript               3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Other                    3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Blade Template           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+PHP                      14 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.87 % 
+Markdown                 6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+TypeScript               4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Other                    3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 28 mins      ██████████████████░░░░░░░   72.97 % 
-VS Code                  7 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Claude Code              25 hrs 32 mins      ███████████████████░░░░░░   76.89 % 
+VS Code                  7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co19 hrs 35 mins      █████████████████░░░░░░░░   69.82 % 
-app.propelyourbusiness.co3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-propel-api-sidecar       2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-github-workflows         1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-docker-images            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+api.propelyourbusiness.co22 hrs 19 mins      █████████████████░░░░░░░░   67.20 % 
+app.propelyourbusiness.co5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+propel-api-sidecar       2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+github-workflows         1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+docker-images            36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-Linux                    28 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    33 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
