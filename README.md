@@ -15,54 +15,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-🌆 Daytime                572 commits         ███████████░░░░░░░░░░░░░░   45.58 % 
-🌃 Evening                368 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Tuesday                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Saturday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      14 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.87 % 
-Markdown                 6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-TypeScript               4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Other                    3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-
-🔥 Editors: 
-Claude Code              25 hrs 32 mins      ███████████████████░░░░░░   76.89 % 
-VS Code                  7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-
-🐱‍💻 Projects: 
-api.propelyourbusiness.co22 hrs 19 mins      █████████████████░░░░░░░░   67.20 % 
-app.propelyourbusiness.co5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-propel-api-sidecar       2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-github-workflows         1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-docker-images            36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-
-💻 Operating System: 
-Linux                    33 hrs 12 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
