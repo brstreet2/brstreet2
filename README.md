@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C821%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -15,6 +15,54 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌆 Daytime                572 commits         ███████████░░░░░░░░░░░░░░   45.58 % 
+🌃 Evening                368 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Saturday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      12 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.85 % 
+Markdown                 6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Other                    5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+TypeScript               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+
+🔥 Editors: 
+Claude Code              26 hrs 20 mins      ████████████████████░░░░░   78.74 % 
+VS Code                  7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+
+🐱‍💻 Projects: 
+api.propelyourbusiness.co24 hrs 18 mins      ██████████████████░░░░░░░   72.65 % 
+app.propelyourbusiness.co4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+propel-api-sidecar       3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+juicebox-harness         31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+api.xvpremiumbd.com.au   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+
+💻 Operating System: 
+Linux                    33 hrs 27 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
