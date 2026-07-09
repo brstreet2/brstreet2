@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C830%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,25 +42,25 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      12 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.85 % 
-Markdown                 6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Other                    5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-TypeScript               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+PHP                      12 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
+Markdown                 5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Other                    3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+TypeScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 20 mins      ████████████████████░░░░░   78.74 % 
-VS Code                  7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Claude Code              21 hrs 6 mins       ██████████████████░░░░░░░   73.25 % 
+VS Code                  7 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co24 hrs 18 mins      ██████████████████░░░░░░░   72.65 % 
-app.propelyourbusiness.co4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-propel-api-sidecar       3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-juicebox-harness         31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-api.xvpremiumbd.com.au   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+api.propelyourbusiness.co23 hrs 52 mins      █████████████████████░░░░   82.89 % 
+app.propelyourbusiness.co3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+propel-api-sidecar       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+api.xvpremiumbd.com.au   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+api.piratejourney.com    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Linux                    33 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
