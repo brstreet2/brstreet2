@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C840%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,25 +42,25 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
-Markdown                 5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Other                    3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Bash                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+PHP                      9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+Markdown                 4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+TypeScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Bash                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 18 mins      █████████████████░░░░░░░░   69.29 % 
-VS Code                  8 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Claude Code              17 hrs 16 mins      ██████████████████░░░░░░░   71.79 % 
+VS Code                  6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co21 hrs 31 mins      ████████████████████░░░░░   81.42 % 
-app.propelyourbusiness.co2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-kentremovalsstorage.com.a1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-propel-api-sidecar       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-api.piratejourney.com    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+api.propelyourbusiness.co16 hrs 25 mins      █████████████████░░░░░░░░   68.25 % 
+app.propelyourbusiness.co5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+kentremovalsstorage.com.a1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+propel-api-sidecar       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+api.piratejourney.com    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Linux                    26 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
