@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C880%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,26 +42,25 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      17 hrs 57 mins      █████████████░░░░░░░░░░░░   51.64 % 
-TypeScript               7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Markdown                 5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+PHP                      14 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.27 % 
+TypeScript               8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 41 mins      ███████████████████░░░░░░   76.78 % 
-VS Code                  7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Codex CLI                35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Claude Code              27 hrs 40 mins      ████████████████████░░░░░   81.69 % 
+VS Code                  6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co16 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.32 % 
-app.propelyourbusiness.co7 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-khs-backend              5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-kentremovalsstorage.com.a4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-khs-presentation         41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+api.propelyourbusiness.co11 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.10 % 
+khs-backend              7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+app.propelyourbusiness.co7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+kentremovalsstorage.com.a4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+khs-presentation         2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Linux                    34 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
