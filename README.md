@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2010%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -13,6 +15,54 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌆 Daytime                572 commits         ███████████░░░░░░░░░░░░░░   45.58 % 
+🌃 Evening                368 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Saturday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      15 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
+TypeScript               10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Markdown                 7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+
+🔥 Editors: 
+Claude Code              31 hrs 6 mins       ██████████████████████░░░   87.12 % 
+VS Code                  4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+
+🐱‍💻 Projects: 
+api.propelyourbusiness.co12 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.32 % 
+khs-backend              9 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+app.propelyourbusiness.co8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+khs-presentation         2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+kentremovalsstorage.com.a1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+
+💻 Operating System: 
+Linux                    35 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
