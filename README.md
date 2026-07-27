@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -42,25 +44,49 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      15 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
-TypeScript               10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Markdown                 7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+PHP                      12 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.81 % 
+TypeScript               9 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Markdown                 6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 6 mins       ██████████████████████░░░   87.12 % 
-VS Code                  4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Claude Code              26 hrs 22 mins      ██████████████████████░░░   87.89 % 
+VS Code                  3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co12 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.32 % 
-khs-backend              9 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-app.propelyourbusiness.co8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-khs-presentation         2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-kentremovalsstorage.com.a1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+khs-backend              9 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
+api.propelyourbusiness.co8 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+app.propelyourbusiness.co7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+khs-presentation         2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+kentremovalsstorage.com.a1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 💻 Operating System: 
-Linux                    35 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 1 min        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 31 mins (95.04%)
+
+✍️ 22,735 lines written by AI, 45 lines written by hand (99.8% AI-written)
+
+🔤 989,957,351 Input Tokens, 3,782,983 Output Tokens
+
+💵 $4679.06 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 307 AI Prompts
+
+Opus                     13,150 lines        █████████████░░░░░░░░░░░░   53.39 % 
+Sonnet                   11,481 lines        ████████████░░░░░░░░░░░░░   46.61 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.8% of written lines came from AI
+📄 Detailed Prompter — average 1,394 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 39.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
