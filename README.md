@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C851%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-394%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,48 +44,50 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.37 % 
-PHP                      9 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.89 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+TypeScript               9 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.32 % 
+PHP                      7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 54 mins      ████████████████████░░░░░   78.91 % 
-VS Code                  5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Claude Code              17 hrs 25 mins      ███████████████████░░░░░░   77.88 % 
+VS Code                  4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 
 🐱‍💻 Projects: 
-app.propelyourbusiness.co6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-api.propelyourbusiness.co5 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-khs-backend              5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-khs-presentation         3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-kentremovalsstorage.com.a1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+app.propelyourbusiness.co6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+khs-backend              5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+api.propelyourbusiness.co4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+khs-presentation         3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+kentremovalsstorage.com.a42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Linux                    23 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 15 mins      ████████████████████████░   95.00 % 
+Windows                  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 56 mins (87.42%)
+⏱ AI Coding Time: 19 hrs 36 mins (87.6%)
 
-✍️ 8,103 lines written by AI, 65 lines written by hand (99.2% AI-written)
+✍️ 6,367 lines written by AI, 281 lines written by hand (95.77% AI-written)
 
-🔤 693,337,840 Input Tokens, 2,210,295 Output Tokens
+🔤 666,453,727 Input Tokens, 2,088,247 Output Tokens
 
-💵 $3520.91 Estimated AI Cost This Week
+💵 $3383.06 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 271 AI Prompts
+🧠 24 AI Sessions, 241 AI Prompts
 
-Opus                     9,736 lines         █████████████████████████   100.00 % 
+Opus                     7,999 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📄 Detailed Prompter — average 1,162 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 82.55% of changed lines were hand-edited
+🤖 AI-Driven — 95.77% of written lines came from AI
+📄 Detailed Prompter — average 1,178 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 85.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
