@@ -44,52 +44,52 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      14 hrs 16 mins      ███████████░░░░░░░░░░░░░░   43.79 % 
-Markdown                 6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-TypeScript               3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Elixir                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+PHP                      11 hrs 18 mins      ███████████░░░░░░░░░░░░░░   44.90 % 
+Markdown                 4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Elixir                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 11 mins      ███████████████████████░░   92.60 % 
-VS Code                  2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              23 hrs 6 mins       ███████████████████████░░   91.81 % 
+VS Code                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-khs-backend              12 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.53 % 
-api.propelyourbusiness.co5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-azkasecio-terminal       4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-lead-service             2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-plumb                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+khs-backend              12 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.62 % 
+api.propelyourbusiness.co4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+lead-service             2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+brstreet2-infra          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+azkasecio-terminal       1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-Windows                  32 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 59 mins (98.08%)
+⏱ AI Coding Time: 24 hrs 34 mins (97.62%)
 
-✍️ 49,477 lines written by AI, 97 lines written by hand (99.8% AI-written)
+✍️ 20,360 lines written by AI, 97 lines written by hand (99.53% AI-written)
 
-🔤 19,494,411 Input Tokens, 3,548,296 Output Tokens
+🔤 15,488,330 Input Tokens, 2,272,450 Output Tokens
 
-💵 $554.63 Estimated AI Cost This Week
+💵 $423.27 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 304 AI Prompts
+🧠 34 AI Sessions, 270 AI Prompts
 
-Opus                     42,903 lines        █████████████████████░░░░   85.85 % 
-Sonnet                   7,074 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Opus                     19,748 lines        ████████████████████████░   95.61 % 
+Sonnet                   906 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 1,466 characters per prompt
+🤖 AI-Driven — 99.53% of written lines came from AI
+📄 Detailed Prompter — average 1,472 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.39% of changed lines were hand-edited
+🚀 High AI Trust — 3.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
