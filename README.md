@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C917%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 230.6 kB Used in GitHub's Storage 
+> 📦 230.7 kB Used in GitHub's Storage 
  > 
 > 🏆 375 Contributions in the Year 2026
  > 
@@ -44,51 +44,49 @@ Sunday                   554 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      9 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
-Markdown                 3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-TypeScript               3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Elixir                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+PHP                      8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Elixir                   5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+YAML                     5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Other                    4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 50 mins      ███████████████████████░░   93.19 % 
-VS Code                  1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Claude Code              36 hrs 20 mins      ████████████████████████░   94.04 % 
+VS Code                  2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-khs-backend              10 hrs 36 mins      ████████████░░░░░░░░░░░░░   47.42 % 
-api.propelyourbusiness.co3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-lead-service             2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-brstreet2-infra          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-azkasecio-terminal       1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+khs-backend              11 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   30.47 % 
+lead-service             11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+brstreet2-infra          6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+api.propelyourbusiness.co3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+azkasecio-terminal       1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 💻 Operating System: 
-Windows                  22 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 55 mins (98.07%)
+⏱ AI Coding Time: 38 hrs 3 mins (98.48%)
 
-✍️ 18,012 lines written by AI, 5 lines written by hand (99.97% AI-written)
+✍️ 41,051 lines written by AI, 10 lines written by hand (99.98% AI-written)
 
-🔤 15,113,515 Input Tokens, 2,137,320 Output Tokens
+🔤 32,849,138 Input Tokens, 5,638,492 Output Tokens
 
-💵 $424.24 Estimated AI Cost This Week
+💵 $1045.83 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 245 AI Prompts
+🧠 33 AI Sessions, 403 AI Prompts
 
-Opus                     17,439 lines        ████████████████████████░   95.06 % 
-Sonnet                   906 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Opus                     30,006 lines        ██████████████████░░░░░░░   71.62 % 
+Sonnet                   11,889 lines        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,494 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,144 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
