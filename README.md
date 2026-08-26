@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 230.7 kB Used in GitHub's Storage 
+> 📦 230.8 kB Used in GitHub's Storage 
  > 
 > 🏆 379 Contributions in the Year 2026
  > 
@@ -44,49 +44,48 @@ Sunday                   554 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
-Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Python                   2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Blade Template           2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+PHP                      8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+Markdown                 4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Blade Template           2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 38 mins      ███████████████████████░░   92.62 % 
-VS Code                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Claude Code              21 hrs 47 mins      ███████████████████████░░   93.65 % 
+VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co18 hrs 27 mins      █████████████████████░░░░   82.85 % 
-khs-backend              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-lead-service             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-khs-presentation         43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-www                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+api.propelyourbusiness.co21 hrs 43 mins      ███████████████████████░░   93.32 % 
+app.propelyourbusiness.co48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+lead-service             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+khs-presentation         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  22 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 44 mins (97.58%)
+⏱ AI Coding Time: 22 hrs 46 mins (97.89%)
 
-✍️ 7,130 lines written by AI, 48 lines written by hand (99.33% AI-written)
+✍️ 8,077 lines written by AI, 3,767 lines written by hand (68.19% AI-written)
 
-🔤 13,019,377 Input Tokens, 2,126,903 Output Tokens
+🔤 10,593,919 Input Tokens, 2,316,994 Output Tokens
 
-💵 $394.50 Estimated AI Cost This Week
+💵 $451.54 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 178 AI Prompts
+🧠 9 AI Sessions, 154 AI Prompts
 
-Opus                     4,042 lines         █████████████░░░░░░░░░░░░   52.07 % 
-Sonnet                   3,721 lines         ████████████░░░░░░░░░░░░░   47.93 % 
+Opus                     5,028 lines         ██████████████░░░░░░░░░░░   56.91 % 
+Sonnet                   3,807 lines         ███████████░░░░░░░░░░░░░░   43.09 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.33% of written lines came from AI
-📚 Verbose Prompter — average 1,556 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 93.43% of changed lines were hand-edited
+🤖 AI-Driven — 68.19% of written lines came from AI
+📚 Verbose Prompter — average 1,922 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 92.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
