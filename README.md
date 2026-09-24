@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C002%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C005%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-556%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-560%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,49 +44,49 @@ Sunday                   878 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      10 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   39.64 % 
-TypeScript               5 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Markdown                 5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-HTML                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+PHP                      10 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.12 % 
+TypeScript               5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 13 mins      █████████████████████████   98.60 % 
-VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Claude Code              22 hrs 47 mins      █████████████████████████   98.21 % 
+VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co18 hrs 53 mins      █████████████████░░░░░░░░   68.45 % 
-app.propelyourbusiness.co6 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-khs-backend              2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-khs-presentation         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+api.propelyourbusiness.co14 hrs 27 mins      ████████████████░░░░░░░░░   62.30 % 
+app.propelyourbusiness.co5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+khs-backend              3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+khs-presentation         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  27 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 34 mins (99.87%)
+⏱ AI Coding Time: 23 hrs 10 mins (99.84%)
 
-✍️ 22,807 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 18,416 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 18,519,798 Input Tokens, 4,099,433 Output Tokens
+🔤 13,228,851 Input Tokens, 2,999,292 Output Tokens
 
-💵 $567.49 Estimated AI Cost This Week
+💵 $476.54 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 166 AI Prompts
+🧠 10 AI Sessions, 146 AI Prompts
 
-Sonnet                   13,424 lines        ██████████████░░░░░░░░░░░   57.16 % 
-Opus                     9,755 lines         ██████████░░░░░░░░░░░░░░░   41.54 % 
-Haiku                    305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Sonnet                   9,924 lines         █████████████░░░░░░░░░░░░   52.59 % 
+Opus                     8,640 lines         ███████████░░░░░░░░░░░░░░   45.79 % 
+Haiku                    305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 5,097 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 4,464 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
