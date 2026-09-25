@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C005%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C009%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-560%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-564%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,48 +44,47 @@ Sunday                   878 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      10 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.12 % 
-TypeScript               5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+PHP                      8 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+TypeScript               5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Markdown                 2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+HTML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 47 mins      █████████████████████████   98.21 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Claude Code              20 hrs              ████████████████████████░   97.73 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co14 hrs 27 mins      ████████████████░░░░░░░░░   62.30 % 
-app.propelyourbusiness.co5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-khs-backend              3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-khs-presentation         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+api.propelyourbusiness.co11 hrs 15 mins      ██████████████░░░░░░░░░░░   55.00 % 
+app.propelyourbusiness.co5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+khs-backend              3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+khs-presentation         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  23 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 10 mins (99.84%)
+⏱ AI Coding Time: 20 hrs 24 mins (99.72%)
 
-✍️ 18,416 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 16,270 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 13,228,851 Input Tokens, 2,999,292 Output Tokens
+🔤 12,217,990 Input Tokens, 2,535,227 Output Tokens
 
-💵 $476.54 Estimated AI Cost This Week
+💵 $440.22 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 146 AI Prompts
+🧠 9 AI Sessions, 145 AI Prompts
 
-Sonnet                   9,924 lines         █████████████░░░░░░░░░░░░   52.59 % 
-Opus                     8,640 lines         ███████████░░░░░░░░░░░░░░   45.79 % 
-Haiku                    305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Sonnet                   9,271 lines         ██████████████░░░░░░░░░░░   55.13 % 
+Opus                     7,546 lines         ███████████░░░░░░░░░░░░░░   44.87 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 4,464 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
+📚 Verbose Prompter — average 3,346 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
