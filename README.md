@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-574%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-579%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,49 +44,49 @@ Sunday                   950 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
-TypeScript               5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Markdown                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-HTML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PHP                      11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.64 % 
+TypeScript               6 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Markdown                 5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 52 mins      ████████████████████████░   97.00 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Claude Code              28 hrs 44 mins      █████████████████████████   98.16 % 
+VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co14 hrs 28 mins      ███████████████░░░░░░░░░░   61.36 % 
-app.propelyourbusiness.co5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-khs-backend              3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-github-workflows         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-khs-presentation         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+api.propelyourbusiness.co20 hrs 43 mins      ██████████████████░░░░░░░   70.74 % 
+app.propelyourbusiness.co5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+khs-backend              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+khs-presentation         21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+infra-propelyourbusiness 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Windows                  23 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 20 mins (98.98%)
+⏱ AI Coding Time: 28 hrs 56 mins (98.81%)
 
-✍️ 14,718 lines written by AI, 10 lines written by hand (99.93% AI-written)
+✍️ 22,089 lines written by AI, 8 lines written by hand (99.96% AI-written)
 
-🔤 13,953,205 Input Tokens, 2,015,952 Output Tokens
+🔤 22,242,492 Input Tokens, 2,270,355 Output Tokens
 
-💵 $427.87 Estimated AI Cost This Week
+💵 $475.16 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 166 AI Prompts
+🧠 18 AI Sessions, 200 AI Prompts
 
-Opus                     12,385 lines        ████████████████████░░░░░   81.24 % 
-Sonnet                   2,860 lines         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Opus                     20,714 lines        ███████████████████████░░   91.22 % 
+Sonnet                   1,994 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 3,983 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 3,895 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
