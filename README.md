@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                747 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌆 Daytime                2569 commits        █████████░░░░░░░░░░░░░░░░   37.20 % 
-🌃 Evening                3470 commits        █████████████░░░░░░░░░░░░   50.25 % 
+🌞 Morning                749 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+🌆 Daytime                2573 commits        █████████░░░░░░░░░░░░░░░░   37.23 % 
+🌃 Evening                3470 commits        █████████████░░░░░░░░░░░░   50.20 % 
 🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Tuesday                  890 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Tuesday                  890 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Wednesday                427 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Thursday                 1574 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Friday                   1289 commits        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Saturday                 1639 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Sunday                   950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 1578 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Friday                   1291 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Saturday                 1639 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Sunday                   950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 
@@ -44,48 +44,48 @@ Sunday                   950 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 9 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
-PHP                      5 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-TypeScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Other                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Markdown                 10 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+PHP                      5 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 5 mins       ████████████████████████░   95.64 % 
-VS Code                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Claude Code              22 hrs 35 mins      ████████████████████████░   95.76 % 
+VS Code                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co16 hrs 59 mins      █████████████████░░░░░░░░   67.45 % 
-khs-backend              5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-app.propelyourbusiness.co2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-khs-docs                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-infra-propelyourbusiness 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+api.propelyourbusiness.co18 hrs 12 mins      ███████████████████░░░░░░   77.15 % 
+khs-backend              3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+app.propelyourbusiness.co1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+khs-docs                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+infra-propelyourbusiness 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Windows                  25 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 38 mins (97.79%)
+⏱ AI Coding Time: 22 hrs 56 mins (97.25%)
 
-✍️ 12,370 lines written by AI, 198 lines written by hand (98.42% AI-written)
+✍️ 9,710 lines written by AI, 198 lines written by hand (98.0% AI-written)
 
-🔤 16,500,648 Input Tokens, 2,416,808 Output Tokens
+🔤 11,015,437 Input Tokens, 2,009,286 Output Tokens
 
-💵 $376.38 Estimated AI Cost This Week
+💵 $271.88 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 212 AI Prompts
+🧠 21 AI Sessions, 177 AI Prompts
 
-Opus                     12,484 lines        █████████████████████████   100.00 % 
+Opus                     9,839 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.42% of written lines came from AI
-📚 Verbose Prompter — average 3,896 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 96.59% of changed lines were hand-edited
+🤖 AI-Driven — 98.0% of written lines came from AI
+📚 Verbose Prompter — average 2,704 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 97.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
