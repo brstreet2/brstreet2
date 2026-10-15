@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C071%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-626%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-630%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,48 +44,48 @@ Sunday                   950 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
-PHP                      4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-HTML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Markdown                 9 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
+PHP                      6 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+HTML                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Other                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+TypeScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 40 mins      ████████████████████████░   96.59 % 
-VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Claude Code              24 hrs 7 mins       ████████████████████████░   97.62 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co12 hrs 38 mins      ██████████████████░░░░░░░   73.17 % 
-khs-backend              3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-app.propelyourbusiness.co47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-plugins                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-www                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+api.propelyourbusiness.co17 hrs 59 mins      ██████████████████░░░░░░░   72.85 % 
+khs-backend              4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+app.propelyourbusiness.co1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+www                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+plugins                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 47 mins (97.28%)
+⏱ AI Coding Time: 24 hrs 17 mins (98.33%)
 
-✍️ 6,103 lines written by AI, 7 lines written by hand (99.89% AI-written)
+✍️ 8,230 lines written by AI, 7 lines written by hand (99.92% AI-written)
 
-🔤 7,616,961 Input Tokens, 1,415,044 Output Tokens
+🔤 12,222,318 Input Tokens, 2,229,720 Output Tokens
 
-💵 $157.07 Estimated AI Cost This Week
+💵 $267.96 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 148 AI Prompts
+🧠 26 AI Sessions, 194 AI Prompts
 
-Opus                     6,164 lines         █████████████████████████   100.00 % 
+Opus                     8,494 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 3,029 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 3,673 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
