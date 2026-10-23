@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C086%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C087%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-646%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-646%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,48 +44,48 @@ Sunday                   1130 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 7 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-PHP                      6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.12 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 8 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
+PHP                      7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 35 mins      █████████████████████████   98.29 % 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Claude Code              20 hrs 51 mins      █████████████████████████   98.78 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co8 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.83 % 
-khs-backend              5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-www                      3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-app.propelyourbusiness.co33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-random-one               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+api.propelyourbusiness.co8 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
+khs-backend              8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+www                      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+random-one               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+app.propelyourbusiness.co18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Windows                  17 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 51 mins (99.77%)
+⏱ AI Coding Time: 21 hrs 4 mins (99.8%)
 
-✍️ 9,620 lines written by AI, 4 lines written by hand (99.96% AI-written)
+✍️ 11,225 lines written by AI, 4 lines written by hand (99.96% AI-written)
 
-🔤 9,161,760 Input Tokens, 1,688,885 Output Tokens
+🔤 9,893,305 Input Tokens, 1,946,665 Output Tokens
 
-💵 $223.01 Estimated AI Cost This Week
+💵 $249.70 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 179 AI Prompts
+🧠 22 AI Sessions, 241 AI Prompts
 
-Opus                     9,839 lines         █████████████████████████   100.00 % 
+Opus                     11,472 lines        █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 3,313 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,755 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
