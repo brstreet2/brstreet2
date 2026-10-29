@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C098%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-659%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-664%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,46 +44,47 @@ Sunday                   1130 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 7 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.26 % 
-PHP                      4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-HTML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-TypeScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 11 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.56 % 
+PHP                      5 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+HTML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+TypeScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 17 mins      █████████████████████████   98.78 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Claude Code              26 hrs 50 mins      █████████████████████████   99.30 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-khs-backend              8 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.86 % 
-api.propelyourbusiness.co7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.18 % 
-app.propelyourbusiness.co1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-infra-propelyourbusiness 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-www                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+khs-backend              12 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.65 % 
+api.propelyourbusiness.co8 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+infra-propelyourbusiness 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+out                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+www                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Windows                  18 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 39 mins      ████████████████████████░   94.92 % 
+Mac                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 26 mins (99.63%)
+⏱ AI Coding Time: 26 hrs 59 mins (99.89%)
 
-✍️ 8,210 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,259 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,604,336 Input Tokens, 1,915,013 Output Tokens
+🔤 10,599,353 Input Tokens, 2,481,557 Output Tokens
 
-💵 $209.36 Estimated AI Cost This Week
+💵 $255.80 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 236 AI Prompts
+🧠 28 AI Sessions, 326 AI Prompts
 
-Opus                     8,689 lines         █████████████████████████   100.00 % 
+Opus                     10,839 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,500 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📚 Verbose Prompter — average 1,875 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
