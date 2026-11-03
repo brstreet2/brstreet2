@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%2031%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-668%20hrs%2039%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 232.3 kB Used in GitHub's Storage 
+> 📦 232.4 kB Used in GitHub's Storage 
  > 
 > 🏆 379 Contributions in the Year 2026
  > 
@@ -20,21 +16,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                749 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-🌆 Daytime                2729 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
-🌃 Evening                3932 commits        █████████████░░░░░░░░░░░░   52.22 % 
-🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+🌞 Morning                749 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌆 Daytime                2755 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                4009 commits        █████████████░░░░░░░░░░░░   52.52 % 
+🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Tuesday                  1058 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Thursday                 1584 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Friday                   1471 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Saturday                 1675 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Sunday                   1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Monday                   137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Tuesday                  1086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday                441 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Thursday                 1585 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Friday                   1501 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Saturday                 1681 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Sunday                   1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 ```
 
 
@@ -44,48 +40,48 @@ Sunday                   1166 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 10 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.13 % 
-PHP                      4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Bash                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Markdown                 6 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
+PHP                      2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 26 mins      █████████████████████████   99.71 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              15 hrs 35 mins      █████████████████████████   99.88 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-khs-backend              8 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
-api.propelyourbusiness.co8 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
-infra-propelyourbusiness 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-out                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-app.propelyourbusiness.co1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+api.propelyourbusiness.co7 hrs 21 mins       ████████████░░░░░░░░░░░░░   47.13 % 
+khs-backend              4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+out                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+app.propelyourbusiness.co1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+infra-propelyourbusiness 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-Windows                  19 hrs 29 mins      █████████████████████░░░░   82.96 % 
-Mac                      4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Windows                  11 hrs 35 mins      ███████████████████░░░░░░   74.33 % 
+Mac                      4 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 28 mins (99.87%)
+⏱ AI Coding Time: 15 hrs 35 mins (99.97%)
 
-✍️ 9,135 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,056 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,509,681 Input Tokens, 2,371,286 Output Tokens
+🔤 6,577,314 Input Tokens, 1,767,450 Output Tokens
 
-💵 $226.46 Estimated AI Cost This Week
+💵 $178.25 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 270 AI Prompts
+🧠 17 AI Sessions, 192 AI Prompts
 
-Opus                     9,706 lines         █████████████████████████   100.00 % 
+Opus                     7,526 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,056 characters per prompt
+📄 Detailed Prompter — average 1,340 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
