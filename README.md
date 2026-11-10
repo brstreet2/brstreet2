@@ -44,48 +44,48 @@ Sunday                   1202 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-PHP                      7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
-HTML                     3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown                 10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   40.02 % 
+PHP                      7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+HTML                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+TypeScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 7 mins       █████████████████████████   100.00 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              26 hrs 15 mins      █████████████████████████   99.57 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co15 hrs 15 mins      ███████████████░░░░░░░░░░   60.72 % 
-khs-backend              7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
-app.propelyourbusiness.co1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-www                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-khs-presentation         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+api.propelyourbusiness.co15 hrs 8 mins       ██████████████░░░░░░░░░░░   57.43 % 
+khs-backend              8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
+app.propelyourbusiness.co1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+www                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+khs-presentation         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Mac                      25 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      26 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 7 mins (100.0%)
+⏱ AI Coding Time: 26 hrs 19 mins (99.84%)
 
-✍️ 11,318 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,058 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 13,674,978 Input Tokens, 3,246,094 Output Tokens
+🔤 16,604,718 Input Tokens, 3,682,486 Output Tokens
 
-💵 $350.89 Estimated AI Cost This Week
+💵 $425.19 Estimated AI Cost This Week
 
 🧠 36 AI Sessions, 318 AI Prompts
 
-Opus                     12,396 lines        █████████████████████████   100.00 % 
+Opus                     14,997 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,537 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 1,910 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
