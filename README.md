@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C134%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-694%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-695%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 232.4 kB Used in GitHub's Storage 
+> 📦 232.6 kB Used in GitHub's Storage 
  > 
 > 🏆 379 Contributions in the Year 2026
  > 
@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                749 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-🌆 Daytime                2755 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
-🌃 Evening                4009 commits        █████████████░░░░░░░░░░░░   52.52 % 
-🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+🌞 Morning                749 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌆 Daytime                2781 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
+🌃 Evening                4086 commits        █████████████░░░░░░░░░░░░   52.82 % 
+🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Tuesday                  1086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                441 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Thursday                 1585 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Friday                   1501 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Saturday                 1681 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Sunday                   1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Monday                   137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Tuesday                  1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                443 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Thursday                 1586 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Friday                   1531 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Saturday                 1687 commits        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Sunday                   1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 ```
 
 
@@ -44,48 +44,47 @@ Sunday                   1202 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 10 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   39.66 % 
-PHP                      8 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
-HTML                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-TypeScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Text                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 16 hrs 9 mins       █████████████░░░░░░░░░░░░   50.76 % 
+PHP                      8 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+TypeScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+HTML                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Text                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 49 mins      █████████████████████████   99.30 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Claude Code              31 hrs 34 mins      █████████████████████████   99.20 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-api.propelyourbusiness.co14 hrs 41 mins      ██████████████░░░░░░░░░░░   54.37 % 
-khs-backend              10 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
-app.propelyourbusiness.co1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-www                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-khs-presentation         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+khs-backend              15 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.32 % 
+api.propelyourbusiness.co13 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.89 % 
+app.propelyourbusiness.co1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+www                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+infra-propelyourbusiness 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Mac                      27 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      31 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 55 mins (99.64%)
+⏱ AI Coding Time: 31 hrs 40 mins (99.49%)
 
-✍️ 15,161 lines written by AI, 6 lines written by hand (99.96% AI-written)
+✍️ 17,247 lines written by AI, 9 lines written by hand (99.95% AI-written)
 
-🔤 17,749,220 Input Tokens, 3,962,625 Output Tokens
+🔤 17,610,847 Input Tokens, 4,315,588 Output Tokens
 
-💵 $443.31 Estimated AI Cost This Week
+💵 $479.48 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 328 AI Prompts
+🧠 41 AI Sessions, 365 AI Prompts
 
-Opus                     16,068 lines        █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     18,631 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,322 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 2,984 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
